@@ -1,7 +1,7 @@
-# **sena-base-info-2021 v2.0.0**
+# **Información de programa | Tecnólogo. Implementación y gestión de bases de datos**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED-BASE-INFO-2021/](https://ecored-sena.github.io/ECORED-BASE-INFO-2021/)
+[https://sena-externos.github.io/INFO-228130-TG_IMPLEM_GESTION_BBDD/](https://sena-externos.github.io/INFO-228130-TG_IMPLEM_GESTION_BBDD/)
 
 #
